@@ -24,9 +24,13 @@
   
   <h3>GitHub:</h3> 
   
-  [![](https://raw.githubusercontent.com/Igosain08/Igosain08/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Igosain08/Igosain08/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Igosain08/Igosain08/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Igosain08/Igosain08/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Igosain08/Igosain08/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igosain08&theme=aura)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igosain08&theme=aura)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Igosain08&theme=aura)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igosain08&theme=aura)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Igosain08&theme=aura&utcOffset=-8)
   
   <br>
   
