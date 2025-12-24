@@ -11,7 +11,7 @@
   When I'm not coding, you'll find me competing in FIFA Weekend League or listening to Bollywood, Punjabi, and electronic music.
   
   <h2>See my website!</h2>
-   👉 [Coming soon - under construction]
+   👉 https://igosain08.github.io/Portfolio/
   
   <h2>Connect with me</h2>
   <a href='https://www.linkedin.com/in/ishaan-gosain-275aa6286/'>
